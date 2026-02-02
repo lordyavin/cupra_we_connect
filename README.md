@@ -6,6 +6,11 @@
 
 _Cupra We Connect ID sensor provides statistics from the Cupra ID Api thru [WeConnect-Cupra-python lib](https://pypi.org/project/weconnect-cupra-lordyavin/)._
 
+**Disclamer:** Please note that this custom HA integration is a fork of 
+* [https://github.com/daernsinstantfortress/cupra_we_connect](https://github.com/daernsinstantfortress/cupra_we_connect) and
+* [https://github.com/daernsinstantfortress/cupra_we_connect](https://github.com/daernsinstantfortress/WeConnect-Cupra-python)
+This became necessary because both projects are no more maintained by the author.
+
 **This component will set up the following platforms.**
 
 Platform | Description
