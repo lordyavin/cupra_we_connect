@@ -1,10 +1,10 @@
 # Cupra WeConnect Home Assistant Integration
-[![GitHub sourcecode](https://img.shields.io/badge/Source-GitHub-green)](https://github.com/daernsinstantfortress/cupra_we_connect)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/daernsinstantfortress/cupra_we_connect)](https://github.com/daernsinstantfortress/cupra_we_connect/releases/latest)
-[![GitHub](https://img.shields.io/github/license/daernsinstantfortress/cupra_we_connect)](https://github.com/daernsinstantfortress/cupra_we_connect/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/daernsinstantfortress/cupra_we_connect)](https://github.com/daernsinstantfortress/cupra_we_connect/issues)
+[![GitHub sourcecode](https://img.shields.io/badge/Source-GitHub-green)](https://github.com/lordyavin/cupra_we_connect)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/lordyavin/cupra_we_connect)](https://github.com/lordyavin/cupra_we_connect/releases/latest)
+[![GitHub](https://img.shields.io/github/license/lordyavin/cupra_we_connect)](https://github.com/lordyavin/cupra_we_connect/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/lordyavin/cupra_we_connect)](https://github.com/lordyavin/cupra_we_connect/issues)
 
-_Cupra We Connect ID sensor provides statistics from the Cupra ID Api thru [WeConnect-Cupra-python lib](https://pypi.org/project/weconnect-cupra-daern/)._
+_Cupra We Connect ID sensor provides statistics from the Cupra ID Api thru [WeConnect-Cupra-python lib](https://pypi.org/project/weconnect-cupra-lordyavin/)._
 
 **This component will set up the following platforms.**
 
@@ -24,7 +24,7 @@ If you were previously running the test version based on [the VW WeConnect ID](h
 ### HACS
 The easiest way to add this to your Homeassistant installation is using [HACS](https://hacs.xyz/) and install the "Cupra WeConnect" integration. Once done, follow the instructions under [Configuration](#configuration) below to set it up.
 
-(If the integration doesn't appear, you can manually add https://github.com/daernsinstantfortress/cupra_we_connect as a custom repository. Once done, you can search for "Cupra" and the integration should show up in HACS, allowing installation.)
+(If the integration doesn't appear, you can manually add https://github.com/lordyavin/cupra_we_connect as a custom repository. Once done, you can search for "Cupra" and the integration should show up in HACS, allowing installation.)
 
 ### Manual
 
