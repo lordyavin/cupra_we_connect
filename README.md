@@ -1,10 +1,10 @@
 # Cupra WeConnect Home Assistant Integration
-[![GitHub sourcecode](https://img.shields.io/badge/Source-GitHub-green)](https://github.com/daernsinstantfortress/cupra_we_connect)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/daernsinstantfortress/cupra_we_connect)](https://github.com/daernsinstantfortress/cupra_we_connect/releases/latest)
-[![GitHub](https://img.shields.io/github/license/daernsinstantfortress/cupra_we_connect)](https://github.com/daernsinstantfortress/cupra_we_connect/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/daernsinstantfortress/cupra_we_connect)](https://github.com/daernsinstantfortress/cupra_we_connect/issues)
+[![GitHub sourcecode](https://img.shields.io/badge/Source-GitHub-green)](https://github.com/lordyavin/cupra_we_connect)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/lordyavin/cupra_we_connect)](https://github.com/lordyavin/cupra_we_connect/releases/latest)
+[![GitHub](https://img.shields.io/github/license/lordyavin/cupra_we_connect)](https://github.com/lordyavin/cupra_we_connect/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/lordyavin/cupra_we_connect)](https://github.com/lordyavin/cupra_we_connect/issues)
 
-_Cupra We Connect ID sensor provides statistics from the Cupra ID Api thru [WeConnect-Cupra-python lib](https://pypi.org/project/weconnect-cupra-daern/)._
+_Cupra We Connect ID sensor provides statistics from the Cupra ID Api thru [WeConnect-Cupra-python lib](https://pypi.org/project/weconnect-cupra-lordyavin/)._
 
 **This component will set up the following platforms.**
 
